@@ -1,0 +1,54 @@
+body{
+    background-color: gray;
+}
+
+
+
+
+.titolopag {
+    color:black;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+.testo2{
+    text-align: center;
+    color:white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+.testo1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+
+}
+.testo3{
+    text-align: center;
+    font-family: sans-serif;
+    color:white;
+}
+.social{
+    background-color:grey ;
+}
+.seguici{
+    text-align: center;
+
+    
+}
+.misura{
+    text-align: center;
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.testo4{
+    text-align: center;
+    color:whitesmoke;
+}
+.par1{
+    color: white;
+    
+}
+.rimani{
+    text-align: center;
+    color: beige;
+
+}
